@@ -1,4 +1,4 @@
-package com.t_robop.yuusuke.mame;
+package com.t_robop.yuusuke.mame.Activity;
 
 import android.content.Intent;
 import android.support.annotation.NonNull;
@@ -19,6 +19,7 @@ import com.google.firebase.auth.AuthResult;
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.auth.FirebaseUser;
 import com.google.firebase.auth.GoogleAuthProvider;
+import com.t_robop.yuusuke.mame.R;
 
 public class LoginActivity extends AppCompatActivity {
 
